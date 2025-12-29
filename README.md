@@ -10,11 +10,7 @@
 - Improving problem-solving and coding skills
 
 ### 📌 Projects
-- University / College Admission Form (HTML & CSS)
-- More projects coming soon...
-
-### 📫 Connect With Me
-- GitHub: Explore my repositories below ⬇️
+ coming soon...
 
 ✨ *Learning by building and growing every day.*
 
