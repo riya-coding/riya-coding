@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**riya-coding/riya-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am a **BSc IT student** with a strong interest in software development.  
+💻 I enjoy learning programming concepts and applying them through projects.  
+🚀 Currently focused on improving my skills and building academic as well as real-world applications.
 
-Here are some ideas to get you started:
+### 🌱 What I’m Doing
+- Learning programming languages
+- Building college projects
+- Improving problem-solving and coding skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- University / College Admission Form (HTML & CSS)
+- More projects coming soon...
+
+### 📫 Connect With Me
+- GitHub: Explore my repositories below ⬇️
+
+✨ *Learning by building and growing every day.*
+
