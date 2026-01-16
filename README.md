@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-🎓 I am a **BSc IT student** with a strong interest in software development.  
-💻 I enjoy learning programming concepts and applying them through projects.  
-🚀 Currently focused on improving my skills and building academic as well as real-world applications.
+🎓 I am a **BSc IT student**.  
+💻 I enjoy learning new programming concepts and applying them through **hands-on projects**.  
+🚀 I am currently focused on strengthening my technical foundation and building **academic as well as real-world applications**.
 
-### 🌱 What I’m Doing
-- Learning programming languages
+---
+
+### 🌱 What I’m Currently Working On
+- Learning programming languages: **Python**
+- Exploring **Web Development**
 - Building college projects
 - Improving problem-solving and coding skills
 
+---
+
 ### 📌 Projects
- coming soon...
+- Simple Python Calculator  
+- You can explore more projects in my repositories, where I upload my academic as well as practice work.
+
+---
 
 ✨ *Learning by building and growing every day.*
-
